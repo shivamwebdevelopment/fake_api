@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Shivam",
+      "lastName": "Kumar",
+      "email": "sk@gmail.com",
+      "age": 25,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Mark",
+      "lastName": "Sen",
+      "email": "mark@gmail.com",
+      "age": 26,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Sohan",
+      "lastName": "Kumar",
+      "email": "sohan@gmail.com",
+      "age": 27,
+      "companyId": "1"
+    },
+    {
+      "id": "4",
+      "firstName": "Ravi",
+      "lastName": "Kumar",
+      "email": "ravi@gmail.com",
+      "age": 28,
+      "companyId": "1"
+    },
+    {
+      "id": "5",
+      "firstName": "Sonaj",
+      "lastName": "Kumar",
+      "email": "sanoj@gmail.com",
+      "age": 29,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Inc. is an American multinational technology company headquartered in Corporation."
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California. Apple is the world's largest technology company by revenue, with US$394.3 billion in 2022 revenue. As of March 2023, Apple is the world's biggest company by market capitalization."
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "description": "Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft 365 suite of productivity applications, and the Internet Explorer and Edge web browsers. "
+    }
+  ]
+}
